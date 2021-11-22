@@ -1,0 +1,13 @@
+{
+    "name": "edisyst/simplestubs",
+    "description": "A package that replaces default Laravel stubs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edoardo Testagrossa",
+            "email": "editestar@gmail.com"
+        }
+    ],
+    "require": {}
+}
